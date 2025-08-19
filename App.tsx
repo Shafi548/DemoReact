@@ -17,6 +17,7 @@ function App() {
   //Your Journey Begins Here
   //Welcome
   //Git FETCH
+  // --- IGNORE --- M3
   return (
     <SafeAreaProvider>
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
